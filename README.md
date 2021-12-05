@@ -1,5 +1,1 @@
-# Game
-
-level1 content
-
-homepage content
+level 2
